@@ -1,0 +1,147 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    width: 100%;
+    height: 100;
+    background: rgba(0, 0, 0, 0.8);
+    color: white;
+    margin-bottom: 25;
+}
+
+.link {
+    float: right;
+    width: auto;
+    height: auto;
+    padding: 5;
+    background: black;
+    margin-right: 20%;
+    margin-top: 20;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.a {
+    margin: 15;
+    color: white;
+}
+
+.lorum {
+    width: 32%;
+    height: auto;
+    float: left;
+    margin-right: 2%;
+}
+
+.lorum3 {
+    width: 32%;
+    height: auto;
+    float: left;
+}
+
+.margin {
+    margin-left: calc(100% / 10);
+    margin-right: calc(100% / 5);
+}
+
+.boz {
+    background: rgba(0, 0, 0, 0.3);
+    width: 33%;
+    height: 300;
+    margin-right: 1%;
+    float: left;
+}
+
+.qara630 {
+    background: black;
+    width: 66%;
+    height: 300;
+    float: left;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 25;
+}
+
+.qara80 {
+    width: 80;
+    height: 80;
+    background: black;
+    float: left;
+    margin-right: 15;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.border80 {
+    padding: 2;
+    border: solid 2px;
+    width: 80;
+    height: 80;
+    float: left;
+    margin-right: 15;
+    border-color: rgba(0, 0, 0, 0.3);
+}
+
+.qutu215 {
+    background: black;
+    width: 100%;
+    height: 100;
+    float: left;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.border215,
+.birinciborder215 {
+    width: 23%;
+    padding: 2px;
+    height: 100;
+    border: solid 2px;
+    float: left;
+    border-color: rgba(0, 0, 0, 0.3);
+    margin-top: 20;
+}
+
+.border215 {
+    margin-left: 1.7%;
+}
+
+.read {
+    color: orange;
+    float: right;
+}
+
+.h {
+    padding-top: 15;
+}
+
+.boz h1 {
+    padding-bottom: 20;
+}
+
+h3 {
+    padding-bottom: 15;
+    padding-top: 20;
+}
+
+.bg {
+    margin-bottom: 25;
+}
+
+a {
+    text-decoration: none;
+}
+
+.bozic {
+    margin: 10;
+}
